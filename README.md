@@ -1,2 +1,2 @@
-# inro_site
+# intro_site
 My first site where I train
